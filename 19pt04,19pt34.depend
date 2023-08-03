@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1592203011 source:d:\cb\work done\19pt04,19pt34\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<string.h>
+	<stdlib.h>
+
